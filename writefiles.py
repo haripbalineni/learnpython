@@ -10,7 +10,7 @@ with open('Files/write.txt','w') as myFile:
 with open('Files/write.txt','a') as myFile:
     myFile.write('\n How are you doing?')
 
-
+# for multilines
 
     lines = ['\n How are you doing Hari?',
             '\n Iam doing great',
