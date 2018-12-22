@@ -1,0 +1,8 @@
+making center
+resistant label -- done 
+Custom label  -- done
+enable and disable line code -- done
+text checked true -- done
+Power and range before help -- done
+one plot at a time
+load and save functionality
